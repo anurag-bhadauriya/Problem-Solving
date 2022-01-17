@@ -2,7 +2,10 @@
 
 ---
 
-> **NOTE:** _This is been done as part of self learning. Most of the problems mentioned here are from Leetcode. However some good problems are also from the geekforgeeks and hackerrank._
+> **NOTE:**  
+>  _This has been done as part of self learning. Most of the problems mentioned here are from Leetcode. However some good problems are also from the geekforgeeks and hackerrank._
+>
+> - _Here's the list of [75 must do leetcode practice problems](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0) that can be helpfull._
 
 ---
 
