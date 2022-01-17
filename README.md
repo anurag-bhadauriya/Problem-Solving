@@ -119,6 +119,13 @@ _Based on mathematical Logics:_
 > - [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)
 > - [Caesar Cipher 1](https://www.hackerrank.com/challenges/caesar-cipher-1/problem)
 > - [CTCI Ransom NOte](https://www.hackerrank.com/challenges/ctci-ransom-note/problem)
+> - [Array Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)
+> - [Ice cream Parlor problem](https://www.hackerrank.com/challenges/icecream-parlor/problem)
+> - [Sherlock and array](https://www.hackerrank.com/challenges/sherlock-and-array/problem)
+> - [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers/problem)
+> - [Rotate Array](https://leetcode.com/problems/rotate-array/)
+> - [Maximum ice cream bars](https://leetcode.com/problems/maximum-ice-cream-bars/)
+> - [Missing Numbers](https://leetcode.com/problems/missing-number/)
 
 ---
 
