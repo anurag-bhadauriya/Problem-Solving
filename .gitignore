@@ -1,0 +1,5 @@
+# Generated exe files
+*.exe
+
+# vd code settings file
+.vscode
