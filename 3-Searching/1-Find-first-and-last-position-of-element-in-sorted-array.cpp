@@ -9,12 +9,10 @@ vector<int> searchRange(vector<int>& nums, int target);
 int SearchOccurenceAsPerMove( vector<int>& nums, int target, Move_Type move);
 
 int main() {
-	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
 	vector<int> arr {5,7,7,8,8,10};
 	int target = 6;
 	
 	vector<int> res = searchRange(arr, target);
-
 	for(auto i=res.begin(); i<res.end(); i++)
 		cout << *i << ",";
 
