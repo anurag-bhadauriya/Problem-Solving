@@ -3,3 +3,7 @@
 
 # vd code settings file
 .vscode
+
+# prettierignorefile
+
+.prettierignore
