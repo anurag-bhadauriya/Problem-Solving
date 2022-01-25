@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/power-of-three/submissions/
+// https://leetcode.com/problems/power-of-three
 
 #include <iostream>
 #include <vector>
