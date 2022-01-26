@@ -21,6 +21,8 @@
 11. [All Possible Combinations](https://leetcode.com/problems/combinations/) ✔
 12. [Letter Combination of a phone number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) ✔
 13. [Power of three](https://leetcode.com/problems/power-of-three) ✔
-14. [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
-15. [Subsets II](https://leetcode.com/problems/subsets-ii/)
-16. [N Queens](https://leetcode.com/problems/n-queens/)
+14. [N Queens](https://leetcode.com/problems/n-queens/) ✔
+15. [N Queens II](https://leetcode.com/problems/n-queens-ii/) ✔
+16. [Word Search in a Matrix](https://leetcode.com/problems/word-search/) ✔
+17. [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
+18. [Subsets II](https://leetcode.com/problems/subsets-ii/)
