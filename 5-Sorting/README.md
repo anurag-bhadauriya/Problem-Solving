@@ -14,3 +14,4 @@
 4. [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii) ✔
 5. [Sort Colors](https://leetcode.com/problems/sort-colors) ✔
 6. [Count Inversions](https://www.geeksforgeeks.org/counting-inversions/) ✔
+7. [Count Inversions II](https://www.geeksforgeeks.org/counting-inversions/) ✔
