@@ -15,3 +15,4 @@
 5. [Sort Colors](https://leetcode.com/problems/sort-colors) ✔
 6. [Count Inversions](https://www.geeksforgeeks.org/counting-inversions/) ✔
 7. [Count Inversions II](https://www.geeksforgeeks.org/counting-inversions/) ✔
+8. [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) ✔
