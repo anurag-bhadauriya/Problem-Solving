@@ -13,3 +13,4 @@
 3. [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) ✔
 4. [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii) ✔
 5. [Sort Colors](https://leetcode.com/problems/sort-colors) ✔
+6. [Count Inversions](https://www.geeksforgeeks.org/counting-inversions/) ✔
