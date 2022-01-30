@@ -7,3 +7,5 @@
 > Here are few more [problems from Leetcode based on two pointer approach.](https://leetcode.com/tag/two-pointers/)
 
 ---
+
+1. [](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) ✔
